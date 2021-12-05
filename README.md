@@ -24,6 +24,7 @@ The data was then broken down by gender.  Males tend to be biggest customer for 
 ![image](https://user-images.githubusercontent.com/89953246/144764113-b615af83-c70d-4ffa-8323-7bf4c245ab03.png)
 ![image](https://user-images.githubusercontent.com/89953246/144764129-319485b0-281c-4513-9c08-a6d5808c309b.png)
 
-
+## Summary
+Bike Sharing venture has potential opportunities areas that are densely populated and have the ability to support bicycle traffic.  Further analysis would include evaluating the distance of travel for bike riders to help establish start and stop locations with map overlay. In Des Moine, consider reviewing commuter patterns and residential neighborhoods in relation to distance analysis.
 
 [Link to Story] https://public.tableau.com/app/profile/nancy.condon/viz/updated_16386323082550/VizBikeSharingAnalysis?publish=yes
