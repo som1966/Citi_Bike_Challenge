@@ -18,6 +18,12 @@ Stoptimes were analyzed against days of the week to better understand the patter
 ![image](https://user-images.githubusercontent.com/89953246/144763756-cf7d6a23-38ec-403c-b937-ad425b7ff945.png)
 
 ### Gender Results
-The data was then broken down by gender.  Males tend to be biggest customer for bike sharing and major subscribers.  More men use the bikes than women, have longer trip durations and have higher utilization during the week.  Women appear to be heavy users on the weekend.
+The data was then broken down by gender.  Males tend to be biggest customer for bike sharing (65%) and major subscribers.  More men use the bikes than women, have longer trip durations and have higher utilization during the week.  Women appear to be heavy users on the weekend.
+![image](https://user-images.githubusercontent.com/89953246/144764041-9681ee8e-97e1-4dbb-b337-e02a13199044.png)
+![image](https://user-images.githubusercontent.com/89953246/144764091-a61ff765-5ccf-46c9-b017-fc5f8dcf8e79.png)
+![image](https://user-images.githubusercontent.com/89953246/144764113-b615af83-c70d-4ffa-8323-7bf4c245ab03.png)
+![image](https://user-images.githubusercontent.com/89953246/144764129-319485b0-281c-4513-9c08-a6d5808c309b.png)
+
+
 
 [Link to Story] https://public.tableau.com/app/profile/nancy.condon/viz/updated_16386323082550/VizBikeSharingAnalysis?publish=yes
