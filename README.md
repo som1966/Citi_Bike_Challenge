@@ -5,8 +5,11 @@
 To provide analysis of utilizing a Bike Sharing business opportunity in Des Moines, IA.  An introductory analsyis was conducted utilizing data from the NYC CitiBike (201908-citibike-tripdata.csv).  Python was used to convert "tripduration" datetime dataset and export the data into a new CSV file for analysis. Finalyy, Tableau Public was used to perform the analysis and data visualations.
 
 ## Results
-There were over 2,344,000 bike rides during August 2019 in New York City. The map listed below represents the number of starting locations and volumes in NYC.
+There were over 2,344,000 bike rides during August 2019 in New York City. The map listed below represents the number of biked sharing starting locations and volumes in NYC.
 ![image](https://user-images.githubusercontent.com/89953246/144762979-8137c029-5c5a-40fa-ac4d-aa5ad0870663.png)
+
+Bike sharing is where bicycles are made available for shared use to people on a short term basis.  It allows people to borrow a bike at a certain location and return it to another location.  It is an economical and convienient to use bikes for trips that are too far to walk and to short to drive.  Most programs offer annual subscriptions and short term users.  In NYC, annual subscribers make up 81% of the customer base.
+![image](https://user-images.githubusercontent.com/89953246/144763216-b28396b0-95b3-4aef-9104-2e36aeb5b127.png)
 
 
 
