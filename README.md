@@ -11,6 +11,13 @@ There were over 2,344,000 bike rides during August 2019 in New York City. The ma
 Bike sharing is where bicycles are made available for shared use to people on a short term basis.  It allows people to borrow a bike at a certain location and return it to another location.  It is an economical and convienient to use bikes for trips that are too far to walk and to short to drive.  Most programs offer annual subscriptions and short term users.  In NYC, annual subscribers make up 81% of the customer base.
 ![image](https://user-images.githubusercontent.com/89953246/144763216-b28396b0-95b3-4aef-9104-2e36aeb5b127.png)
 
+Overtime, bike sharing for customers has increased.  Early on, trip duration on  average for about 20-30 minutes, latest data shows the average of 58-60 minutes.
+![image](https://user-images.githubusercontent.com/89953246/144763548-6bbc8b58-c3bf-4728-a20e-9b401bca342b.png)
 
+Stoptimes were analyzed against days of the week to better understand the pattern of the renters. Bikes are returned mostly 7-9 am and 5-7 pm.
+![image](https://user-images.githubusercontent.com/89953246/144763756-cf7d6a23-38ec-403c-b937-ad425b7ff945.png)
+
+### Gender Results
+The data was then broken down by gender.  Males tend to be biggest customer for bike sharing and major subscribers.  More men use the bikes than women, have longer trip durations and have higher utilization during the week.  Women appear to be heavy users on the weekend.
 
 [Link to Story] https://public.tableau.com/app/profile/nancy.condon/viz/updated_16386323082550/VizBikeSharingAnalysis?publish=yes
